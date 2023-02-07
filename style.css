@@ -1,0 +1,39 @@
+.bg-info {
+    background-color: #58b368 !important;
+    /* some secondary colour */
+}
+
+nav {
+    background-color: #58b368;
+}
+
+.navbar-light .navbar-brand {
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-size: 2.0rem;
+    background-color: #58b368
+        /* contrast to secondary colour */
+}
+
+label,
+span,
+p {
+    color: #FFFFFF;
+}
+
+.btn-primary {
+    color: FFFFF;
+    /* contrast to secondary colour */
+    font-size: 150%;
+    background-color: #58b368;
+    /* some secondary colour */
+    border-color: #454d66;
+    /* some accent colour */
+    border-width: thick;
+    border-radius: 10px;
+}
+
+body {
+    background-color: #454d66;
+    /* some primary colour */
+}
